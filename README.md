@@ -13,3 +13,6 @@ request follows mailchimp API instruction
 if user's signup newsletter successed, user wil be redirected to a successful page
 if failure, user would see a opps apge, and a try again button to enable user to signup to newsletter again.
 
+## deploy
+web application is free deployed on deta space
+
